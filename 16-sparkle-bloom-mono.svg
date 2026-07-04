@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <!-- Sparkle Bloom - single-colour master (#1a1a1a only) -->
+
+  <path fill-rule="evenodd" fill="#1a1a1a" d="M 800 210
+           C 820 270 896 320 888 382
+           C 950 374 1000 450 1060 470
+           C 1000 490 950 566 888 558
+           C 896 620 820 670 800 730
+           C 780 670 704 620 712 558
+           C 650 566 600 490 540 470
+           C 600 450 650 374 712 382
+           C 704 320 780 270 800 210
+           Z
+           M 800 372
+           C 838 372 866 396 866 432
+           C 866 460 861 480 854 498
+           C 852 524 846 556 833 568
+           C 824 574 817 570 815 556
+           C 813 542 806 532 800 520
+           C 794 532 787 542 785 556
+           C 783 570 776 574 767 568
+           C 754 556 748 524 746 498
+           C 739 480 734 460 734 432
+           C 734 396 762 372 800 372
+           Z"/>
+
+  <path d="M 975 253 Q 986 284 1017 295 Q 986 306 975 337 Q 964 306 933 295 Q 964 284 975 253 Z" fill="#1a1a1a"/>
+
+  <text x="800" y="905" font-family="Playfair Display, Georgia, serif" font-size="76" font-weight="800" letter-spacing="10" text-anchor="middle" fill="#1a1a1a">REVATHY DENTISTREE</text>
+  <rect x="680" y="938" width="240" height="4" rx="2" fill="#1a1a1a"/>
+  <text x="800" y="1004" font-family="Playfair Display, Georgia, serif" font-size="40" font-style="italic" font-weight="500" letter-spacing="3" text-anchor="middle" fill="#1a1a1a">Growing Miles of Smiles</text>
+</svg>

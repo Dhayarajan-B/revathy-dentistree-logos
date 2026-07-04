@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="277 369 1120 526">
+  <!-- The Dentistree Wordmark - single-colour version -->
+  <path d="M 1256 626 C 1268 578 1268 539 1248 502" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 1248 502 Q 1266 455 1226 424 Q 1208 471 1248 502 Z" fill="#1a1a1a"/>
+  <path d="M 1263 589 Q 1310 601 1337 560 Q 1290 548 1263 589 Z" fill="#1a1a1a"/>
+  <path d="M 1264 549 Q 1238 507 1190 516 Q 1216 558 1264 549 Z" fill="#1a1a1a"/>
+  <text x="807" y="560" font-family="Playfair Display, Georgia, serif" font-size="58" font-weight="700" letter-spacing="14" text-anchor="middle" fill="#1a1a1a">REVATHY</text>
+  <text x="805" y="700" font-family="Playfair Display, Georgia, serif" font-size="120" font-weight="800" letter-spacing="10" text-anchor="middle" fill="#1a1a1a">DENTISTREE</text>
+  <line x1="332" y1="758" x2="1268" y2="758" stroke="#1a1a1a" stroke-width="1.5"/>
+  <text x="801" y="830" font-family="Playfair Display, Georgia, serif" font-size="44" font-style="italic" font-weight="500" letter-spacing="2" text-anchor="middle" fill="#1a1a1a">Growing Miles of Smiles</text>
+</svg>

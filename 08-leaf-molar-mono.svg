@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <!-- Leaf Molar: single-colour master (#1a1a1a) -->
+  <path d="M786 484 C792 392 798 268 700 208 C646 226 580 278 566 350 C552 422 618 464 786 484 Z" fill="#1a1a1a"/>
+  <path d="M814 484 C808 392 802 268 900 208 C954 226 1020 278 1034 350 C1048 422 982 464 814 484 Z" fill="#1a1a1a"/>
+  <path d="M784 534 C736 512 692 498 640 500 C612 558 632 664 686 742 C726 682 762 606 784 534 Z" fill="#1a1a1a"/>
+  <path d="M816 534 C864 512 908 498 960 500 C988 558 968 664 914 742 C874 682 838 606 816 534 Z" fill="#1a1a1a"/>
+  <text x="800" y="950" font-family="Playfair Display, Georgia, serif" font-size="72" font-weight="800" letter-spacing="8" text-anchor="middle" fill="#1a1a1a">REVATHY DENTISTREE</text>
+  <text x="800" y="1032" font-family="Playfair Display, Georgia, serif" font-size="38" font-style="italic" font-weight="500" letter-spacing="1.5" text-anchor="middle" fill="#1a1a1a">Growing Miles of Smiles</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="240 375 1225 470">
+  <!-- Smile Underline: one calligraphic stroke = smile + leaf stem, ending in a gold leaf -->
+  <!-- wordmark -->
+  <text x="800" y="520" font-family="Segoe UI, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="12" text-anchor="middle" fill="#1b4d3e">REVATHY DENTISTREE</text>
+  <!-- calligraphic smile stroke: thickest under the word's centre, rising past the last letter -->
+  <path d="M 420 588 Q 740 676 1302 538 Q 770 726 420 588 Z" fill="#1b4d3e"/>
+  <!-- gold leaf opening off the rising stem tip (detached so it reads in one colour) -->
+  <path d="M 1316 533 Q 1339 467 1408 462 Q 1385 528 1316 533 Z" fill="#b58c44"/>
+  <!-- tagline -->
+  <text x="800" y="746" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-style="italic" font-weight="400" letter-spacing="4" text-anchor="middle" fill="#8a6a2e">Growing Miles of Smiles</text>
+</svg>

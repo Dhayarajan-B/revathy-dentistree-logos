@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <!-- Banyan of Care - single-colour master (#1a1a1a only) -->
+
+  <path d="M 585 410 C 590 500 592 560 583 642
+           L 625 642
+           C 616 560 618 500 623 410 Z" fill="#1a1a1a"/>
+  <path d="M 977 410 C 982 500 984 560 975 642
+           L 1017 642
+           C 1008 560 1010 500 1015 410 Z" fill="#1a1a1a"/>
+  <path d="M 484 375 C 489 470 491 545 482 642
+           L 518 642
+           C 509 545 511 470 516 375 Z" fill="#1a1a1a"/>
+  <path d="M 1084 375 C 1089 470 1091 545 1082 642
+           L 1118 642
+           C 1109 545 1111 470 1116 375 Z" fill="#1a1a1a"/>
+
+  <path d="M 758 415
+           C 762 500 748 580 700 642
+           L 900 642
+           C 852 580 838 500 842 415 Z" fill="#1a1a1a"/>
+
+  <path d="M 410 350
+           C 455 225 615 180 800 180
+           C 985 180 1145 225 1190 350
+           C 1075 420 940 445 800 445
+           C 660 445 525 420 410 350 Z" fill="#1a1a1a"/>
+
+  <path d="M 600 700
+           C 672 800 928 800 1000 700
+           C 928 734 672 734 600 700 Z" fill="#1a1a1a"/>
+
+  <text x="800" y="905" font-family="Playfair Display, Georgia, serif" font-size="76" font-weight="800" letter-spacing="10" text-anchor="middle" fill="#1a1a1a">REVATHY DENTISTREE</text>
+  <rect x="710" y="936" width="180" height="3" rx="1.5" fill="#1a1a1a"/>
+  <text x="800" y="1002" font-family="Playfair Display, Georgia, serif" font-size="40" font-style="italic" font-weight="500" letter-spacing="3" text-anchor="middle" fill="#1a1a1a">Growing Miles of Smiles</text>
+</svg>

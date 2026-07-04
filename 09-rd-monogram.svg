@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <!-- 09 RD MONOGRAM - interlocked R+D ligature, champagne gold on deep evergreen field -->
+  <g transform="translate(0 30)">
+    <!-- Contained field: the protected world of the clinic -->
+    <circle cx="800" cy="430" r="280" fill="#0f2d24"/>
+
+    <g transform="translate(-22 0)">
+      <g fill="none" stroke="#c9a662" stroke-width="34">
+        <!-- D: bottom strap -> shared stem -> top strap. The gap in the lower-right bowl
+             (ellipse theta 24deg..49deg) lets the R leg weave OVER the D -->
+        <path d="M804.3 557.8 A190 160 0 0 1 690 590 L690 270 A190 160 0 0 1 858.5 503.9" stroke-linejoin="miter"/>
+        <!-- R bowl nested inside the D counter, sharing the same stem -->
+        <path d="M690 322 A108 58 0 0 1 690 438"/>
+        <!-- R leg kicking from the bowl junction, crossing through the cut in the D bowl,
+             bottoming out and lifting: the vine gesture that carries the leaf -->
+        <path d="M690 438 C772 482 884 596 944 550"/>
+      </g>
+      <!-- single champagne leaf swelling tangentially out of the leg terminal: the 'tree' in Dentistree -->
+      <path d="M917.8 576.1 Q923.8 511.9 992.6 503.8 Q986.6 567.8 917.8 576.1 Z" fill="#c9a662"/>
+    </g>
+  </g>
+
+  <!-- Lockup -->
+  <text x="800" y="880" font-family="Playfair Display, Georgia, serif" font-size="76" font-weight="800" letter-spacing="10" text-anchor="middle" fill="#1b4d3e">REVATHY DENTISTREE</text>
+  <text x="800" y="944" font-family="Playfair Display, Georgia, serif" font-size="34" font-style="italic" letter-spacing="2" text-anchor="middle" fill="#8a6a2e">Growing Miles of Smiles</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <!-- REVATHY DENTISTREE - Concept 01 "The Canopy" - full-colour master -->
+  <!-- Seven separate almond leaves fan symmetrically around hub (800,420) with deliberate gaps; -->
+  <!-- the single antique-gold leaf at upper right is the 'golden smile'. -->
+  <!-- Tooth-as-trunk: molar crown widest at upper-middle, twin tapering roots = the two doctors. -->
+  <g>
+    <!-- Canopy: slim almond leaf, base r=36 / tip r=234 from hub (800,420); width stays inside a 23-degree cone so gaps never close -->
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" fill="#1b4d3e"/>
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" transform="rotate(-30 800 420)" fill="#1b4d3e"/>
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" transform="rotate(-60 800 420)" fill="#1b4d3e"/>
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" transform="rotate(-90 800 420)" fill="#1b4d3e"/>
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" transform="rotate(60 800 420)" fill="#1b4d3e"/>
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" transform="rotate(90 800 420)" fill="#1b4d3e"/>
+    <!-- Golden-smile leaf, upper right -->
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" transform="rotate(30 800 420)" fill="#b58c44"/>
+    <!-- Trunk with organic root-flare into the crown -->
+    <path d="M782,410 C782,400 818,400 818,410 L818,442 C818,454 828,460 842,466 L758,466 C772,460 782,454 782,442 Z" fill="#1b4d3e"/>
+    <!-- Molar: broad flat-topped crown (wider than tall), cervical waist at gum line, twin tapering roots under a rounded arch; mirrored about x=800 -->
+    <path d="M800,456 C842,456 874,459 886,469 C898,479 904,494 906,516 C908,548 902,574 891,596 C884,610 878,622 874,636 C866,668 858,690 854,704 C851,716 829,718 827,706 C823,682 816,654 800,640 C784,654 777,682 773,706 C771,718 749,716 746,704 C742,690 734,668 726,636 C722,622 716,610 709,596 C698,574 692,548 694,516 C696,494 702,479 714,469 C726,459 758,456 800,456 Z" fill="#1b4d3e"/>
+  </g>
+  <!-- Gold divider strip (echo of the site's green-to-gold strips) -->
+  <rect x="680" y="790" width="240" height="5" rx="2.5" fill="#b58c44"/>
+  <text x="800" y="908" font-family="Playfair Display, Georgia, serif" font-size="76" font-weight="800" letter-spacing="9" fill="#1b4d3e" text-anchor="middle">REVATHY DENTISTREE</text>
+  <text x="800" y="984" font-family="Playfair Display, Georgia, serif" font-size="42" font-style="italic" font-weight="500" letter-spacing="3" fill="#8a6a2e" text-anchor="middle">Growing Miles of Smiles</text>
+</svg>

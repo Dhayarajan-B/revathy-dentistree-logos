@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="330 243 940 705">
+  <!-- Stacked Badge: boutique-apothecary vertical lockup with monoline tree-tooth glyph -->
+  <!-- monoline tooth: crown with soft occlusal dip, twin roots -->
+  <path d="M 762 566 C 745 534 733 484 731 440 C 729 407 746 389 770 389 C 782 389 792 394 800 403 C 808 394 818 389 830 389 C 854 389 871 407 869 440 C 867 484 855 534 838 566 C 830 540 818 512 800 496 C 782 512 770 540 762 566 Z" fill="none" stroke="#1b4d3e" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- tree growing from the occlusal dip -->
+  <line x1="800" y1="402" x2="800" y2="332" stroke="#1b4d3e" stroke-width="10" stroke-linecap="round"/>
+  <line x1="800" y1="370" x2="768" y2="352" stroke="#1b4d3e" stroke-width="8" stroke-linecap="round"/>
+  <line x1="800" y1="370" x2="832" y2="352" stroke="#1b4d3e" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 800 332 Q 828 307 800 282 Q 772 307 800 332 Z" fill="#b58c44"/>
+  <path d="M 768 352 Q 754 323 724 334 Q 738 363 768 352 Z" fill="#b58c44"/>
+  <path d="M 832 352 Q 846 323 876 334 Q 862 363 832 352 Z" fill="#b58c44"/>
+  <!-- fine rule -->
+  <line x1="650" y1="600" x2="950" y2="600" stroke="#b58c44" stroke-width="2"/>
+  <!-- name stack -->
+  <text x="807" y="660" font-family="Playfair Display, Georgia, serif" font-size="46" font-weight="700" letter-spacing="14" text-anchor="middle" fill="#9a7434">REVATHY</text>
+  <text x="806" y="754" font-family="Playfair Display, Georgia, serif" font-size="88" font-weight="800" letter-spacing="12" text-anchor="middle" fill="#1b4d3e">DENTISTREE</text>
+  <!-- location line flanked by fine rules -->
+  <line x1="403" y1="820" x2="483" y2="820" stroke="#b58c44" stroke-width="2"/>
+  <line x1="1117" y1="820" x2="1197" y2="820" stroke="#b58c44" stroke-width="2"/>
+  <text x="804" y="828" font-family="Playfair Display, Georgia, serif" font-size="26" font-weight="700" letter-spacing="8" text-anchor="middle" fill="#1b4d3e">VILLUPURAM &#183; TAMIL NADU</text>
+  <!-- tagline -->
+  <text x="801" y="898" font-family="Playfair Display, Georgia, serif" font-size="38" font-style="italic" font-weight="500" letter-spacing="2" text-anchor="middle" fill="#9a7434">Growing Miles of Smiles</text>
+</svg>

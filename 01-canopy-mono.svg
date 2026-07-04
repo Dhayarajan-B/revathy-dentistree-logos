@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <!-- REVATHY DENTISTREE - Concept 01 "The Canopy" - single-colour #1a1a1a -->
+  <g>
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" fill="#1a1a1a"/>
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" transform="rotate(-30 800 420)" fill="#1a1a1a"/>
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" transform="rotate(-60 800 420)" fill="#1a1a1a"/>
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" transform="rotate(-90 800 420)" fill="#1a1a1a"/>
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" transform="rotate(60 800 420)" fill="#1a1a1a"/>
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" transform="rotate(90 800 420)" fill="#1a1a1a"/>
+    <path d="M800,384 C793,377 785,350 780,320 C776,288 784,214 800,186 C816,214 824,288 820,320 C815,350 807,377 800,384 Z" transform="rotate(30 800 420)" fill="#1a1a1a"/>
+    <path d="M782,410 C782,400 818,400 818,410 L818,442 C818,454 828,460 842,466 L758,466 C772,460 782,454 782,442 Z" fill="#1a1a1a"/>
+    <path d="M800,456 C842,456 874,459 886,469 C898,479 904,494 906,516 C908,548 902,574 891,596 C884,610 878,622 874,636 C866,668 858,690 854,704 C851,716 829,718 827,706 C823,682 816,654 800,640 C784,654 777,682 773,706 C771,718 749,716 746,704 C742,690 734,668 726,636 C722,622 716,610 709,596 C698,574 692,548 694,516 C696,494 702,479 714,469 C726,459 758,456 800,456 Z" fill="#1a1a1a"/>
+  </g>
+  <rect x="680" y="790" width="240" height="5" rx="2.5" fill="#1a1a1a"/>
+  <text x="800" y="908" font-family="Playfair Display, Georgia, serif" font-size="76" font-weight="800" letter-spacing="9" fill="#1a1a1a" text-anchor="middle">REVATHY DENTISTREE</text>
+  <text x="800" y="984" font-family="Playfair Display, Georgia, serif" font-size="42" font-style="italic" font-weight="500" letter-spacing="3" fill="#1a1a1a" text-anchor="middle">Growing Miles of Smiles</text>
+</svg>

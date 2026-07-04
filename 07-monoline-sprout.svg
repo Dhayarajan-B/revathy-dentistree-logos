@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <!-- Monoline Sprout: one continuous line - gold leaf+stem flows into green molar outline, ending short of closure -->
+  <path d="M848 250 C824 214 830 172 858 146 C872 133 890 126 906 124 C910 160 898 200 872 230 C862 241 852 247 840 254 C820 280 802 318 800 366" fill="none" stroke="#b58c44" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M800 366 C770 336 734 320 704 322 C662 325 626 352 615 396 C601 450 606 510 620 560 C633 606 652 664 676 704 C686 720 702 726 712 719 C724 710 735 670 742 634 C749 601 770 581 800 578 C830 581 851 601 858 634 C865 670 876 710 888 719 C898 726 914 720 924 704 C948 664 967 606 980 560 C994 510 999 450 985 396 C974 352 938 325 896 322 C866 320 852 332 842 346" fill="none" stroke="#1b4d3e" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- lockup -->
+  <text x="806" y="952" font-family="Playfair Display, Georgia, serif" font-size="74" font-weight="700" letter-spacing="12" text-anchor="middle" fill="#1b4d3e">REVATHY DENTISTREE</text>
+  <text x="800" y="1036" font-family="Playfair Display, Georgia, serif" font-size="38" font-style="italic" font-weight="500" letter-spacing="1.5" text-anchor="middle" fill="#8a6a2e">Growing Miles of Smiles</text>
+</svg>

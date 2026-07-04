@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="170 127.5 1260 945">
+  <!-- REVATHY DENTISTREE - Concept 02 "Dentistree Seal" - single-colour #1a1a1a -->
+  <defs>
+    <path id="sealArcTop" d="M428,600 A372,372 0 0 1 1172,600" fill="none"/>
+    <path id="sealArcBottom" d="M390,600 A410,410 0 0 0 1210,600" fill="none"/>
+  </defs>
+  <circle cx="800" cy="600" r="446" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <circle cx="800" cy="600" r="430" fill="none" stroke="#1a1a1a" stroke-width="12"/>
+  <circle cx="800" cy="600" r="330" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <text font-family="Playfair Display, Georgia, serif" font-size="56" font-weight="700" letter-spacing="14" fill="#1a1a1a" text-anchor="middle">
+    <textPath href="#sealArcTop" startOffset="50%">REVATHY DENTISTREE</textPath>
+  </text>
+  <text font-family="Playfair Display, Georgia, serif" font-size="38" font-weight="600" letter-spacing="8" fill="#1a1a1a" text-anchor="middle">
+    <textPath href="#sealArcBottom" startOffset="50%">GROWING MILES OF SMILES</textPath>
+  </text>
+  <circle cx="420" cy="600" r="10" fill="#1a1a1a"/>
+  <circle cx="1180" cy="600" r="10" fill="#1a1a1a"/>
+  <g transform="translate(160 216.8) scale(0.8)">
+    <path d="M800,352 C766,328 758,250 800,202 C842,250 834,328 800,352 Z" transform="rotate(-90 800 400)" fill="#1a1a1a"/>
+    <path d="M800,352 C766,328 758,250 800,202 C842,250 834,328 800,352 Z" transform="rotate(-45 800 400)" fill="#1a1a1a"/>
+    <path d="M800,352 C766,328 758,250 800,202 C842,250 834,328 800,352 Z" fill="#1a1a1a"/>
+    <path d="M800,352 C766,328 758,250 800,202 C842,250 834,328 800,352 Z" transform="rotate(90 800 400)" fill="#1a1a1a"/>
+    <path d="M800,352 C766,328 758,250 800,202 C842,250 834,328 800,352 Z" transform="rotate(45 800 400)" fill="#1a1a1a"/>
+    <rect x="786" y="364" width="28" height="120" rx="9" fill="#1a1a1a"/>
+    <path d="M755,478 L845,478 C898,478 922,508 920,556 C918,598 908,626 890,652 C870,680 858,710 853,736 C849,756 827,756 824,737 C819,700 812,672 800,664 C788,672 781,700 776,737 C773,756 751,756 747,736 C742,710 730,680 710,652 C692,626 682,598 680,556 C678,508 702,478 755,478 Z" fill="#1a1a1a"/>
+  </g>
+</svg>

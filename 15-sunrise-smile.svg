@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <!-- Sunrise Smile: a gold sun rising in the cradle of a deep-green smile-arc horizon,
+       its five rays drawn as pointed leaf lenses fanned at 30/60/90/120/150 degrees.
+       Geometry: sun centre (800,556) r150; horizon = circular arc, centre (800,-18) R614,
+       stroke 52; sun base cut along concentric R600 arc so the horizon covers it cleanly. -->
+
+  <!-- Leaf rays (sun centre 800,556 / inner r 190 / outer r 300 / half-bulge 50) -->
+  <path d="M 800 366 Q 750 311 800 256 Q 850 311 800 366 Z" fill="#1b4d3e"/>
+  <path d="M 895 391.5 Q 879.2 318.8 950 296.2 Q 965.8 368.8 895 391.5 Z" fill="#1b4d3e"/>
+  <path d="M 705 391.5 Q 720.8 318.8 650 296.2 Q 634.2 368.8 705 391.5 Z" fill="#1b4d3e"/>
+  <path d="M 964.5 461 Q 987.2 390.2 1059.8 406 Q 1037.2 476.8 964.5 461 Z" fill="#1b4d3e"/>
+  <path d="M 635.5 461 Q 612.8 390.2 540.2 406 Q 562.8 476.8 635.5 461 Z" fill="#1b4d3e"/>
+
+  <!-- Rising sun: disc cut by the horizon curve (base tucks under the smile stroke) -->
+  <path d="M 650.2 563 A 150 150 0 1 1 949.8 563 A 600 600 0 0 1 650.2 563 Z" fill="#b58c44"/>
+
+  <!-- Smile horizon: true circular arc, drawn over the sun's base -->
+  <path d="M 490 512 A 614 614 0 0 0 1110 512" fill="none" stroke="#1b4d3e" stroke-width="52" stroke-linecap="round"/>
+
+  <!-- Lockup -->
+  <text x="800" y="858" font-family="Playfair Display, Georgia, serif" font-size="76" font-weight="800" letter-spacing="10" text-anchor="middle" fill="#1b4d3e">REVATHY DENTISTREE</text>
+  <rect x="690" y="888" width="220" height="4" rx="2" fill="#b58c44"/>
+  <text x="800" y="948" font-family="Playfair Display, Georgia, serif" font-size="40" font-style="italic" font-weight="500" letter-spacing="3" text-anchor="middle" fill="#8a6a2e">Growing Miles of Smiles</text>
+</svg>

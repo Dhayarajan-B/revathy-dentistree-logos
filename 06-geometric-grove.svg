@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1280 960">
+  <!-- Geometric Grove: Fibonacci geometry. Canopy/crown circle r233; twin trunk/root stadiums 89x144
+       (golden rectangles) with 21-unit "gumline" clearance to the crown; root-canal gap 55 between
+       them; sun circle r55 floating 34 clear of the canopy shoulder at 40 degrees. -->
+  <circle cx="640" cy="320" r="233" fill="#1b4d3e"/>
+  <rect x="523.5" y="566" width="89" height="144" rx="44.5" fill="#b58c44"/>
+  <rect x="667.5" y="566" width="89" height="144" rx="44.5" fill="#b58c44"/>
+  <circle cx="886.7" cy="113" r="55" fill="#b58c44"/>
+  <!-- lockup -->
+  <text x="646.5" y="830" font-family="Bahnschrift, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="13" text-anchor="middle" fill="#1b4d3e">REVATHY DENTISTREE</text>
+  <text x="644.5" y="896" font-family="Bahnschrift, Arial, sans-serif" font-size="27" font-weight="500" letter-spacing="9" text-anchor="middle" fill="#8a6a2e">GROWING MILES OF SMILES</text>
+</svg>

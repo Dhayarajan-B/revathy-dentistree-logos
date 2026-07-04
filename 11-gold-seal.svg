@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="407 162 786 874">
+  <!-- 11 GOLD SEAL - circular foil stamp: double gold rings, circumferential type, tree-tooth line icon at centre -->
+  <defs>
+    <path id="sealTopArc" d="M530 530 A270 270 0 0 1 1070 530"/>
+    <path id="sealBottomArc" d="M500 530 A300 300 0 0 0 1100 530"/>
+  </defs>
+
+  <g transform="translate(0,25)">
+    <!-- double ring, outside and inside the text band -->
+    <g fill="none" stroke="#b58c44">
+      <circle cx="800" cy="530" r="340" stroke-width="5"/>
+      <circle cx="800" cy="530" r="331" stroke-width="2"/>
+      <circle cx="800" cy="530" r="240" stroke-width="2"/>
+      <circle cx="800" cy="530" r="232" stroke-width="5"/>
+    </g>
+
+    <!-- circumferential lettering -->
+    <text font-family="Playfair Display, Georgia, serif" font-size="48" font-weight="700" letter-spacing="7" fill="#b58c44" text-anchor="middle">
+      <textPath href="#sealTopArc" startOffset="50%">REVATHY DENTISTREE</textPath>
+    </text>
+    <text font-family="Playfair Display, Georgia, serif" font-size="46" font-weight="700" letter-spacing="12" fill="#b58c44" text-anchor="middle">
+      <textPath href="#sealBottomArc" startOffset="50%">VILLUPURAM</textPath>
+    </text>
+
+    <!-- band separators at 3 and 9 o'clock: the two doctors -->
+    <circle cx="514.5" cy="530" r="8.5" fill="#b58c44"/>
+    <circle cx="1085.5" cy="530" r="8.5" fill="#b58c44"/>
+
+    <!-- centre icon: molar with twin roots, sapling with two leaves and a bud growing from its crown -->
+    <g transform="translate(0,16)">
+      <g fill="none" stroke="#1b4d3e" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M800 480 C780 458 748 452 734 472 C726 484 722 496 723 512 C725 552 733 592 741 622 C745 638 749 650 755 654 C764 661 772 652 774 638 C777 612 785 585 800 585 C815 585 823 612 826 638 C828 652 836 661 845 654 C851 650 855 638 859 622 C867 592 875 552 877 512 C878 496 874 484 866 472 C852 452 820 458 800 480 Z"/>
+        <path d="M800 480 V398"/>
+      </g>
+      <g fill="#1b4d3e">
+        <path d="M800 430 C770 435 746 422 738 392 C768 386 793 401 800 430 Z"/>
+        <path d="M800 430 C830 435 854 422 862 392 C832 386 807 401 800 430 Z"/>
+        <circle cx="800" cy="372" r="8"/>
+      </g>
+    </g>
+
+    <!-- tagline beneath the seal -->
+    <text x="800" y="952" font-family="Playfair Display, Georgia, serif" font-size="38" font-style="italic" letter-spacing="3" text-anchor="middle" fill="#8a6a2e">Growing Miles of Smiles</text>
+  </g>
+</svg>
